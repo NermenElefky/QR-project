@@ -25,4 +25,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Nermen Elefky]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/NermenElefky)
+- Frontend Mentor - [@NermenElefky](https://www.frontendmentor.io/profile/NermenElefky)
