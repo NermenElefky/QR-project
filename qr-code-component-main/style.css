@@ -30,5 +30,7 @@ img {
     font-family: 'Outfit', sans-serif;
 }
 h1 {
-    margin-bottom: 13px;
+    font-size: 1.3rem;
+    margin-bottom: 16px;
+    line-height: 1.5;
 }
