@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.back{
+main{
     width:90%;
     background-color: hsl(212, 45%, 89%);
     margin: 50px auto;
@@ -29,6 +29,6 @@ img {
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }
-h3 {
+h1 {
     margin-bottom: 13px;
 }
